@@ -3,7 +3,7 @@
 This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow.Privacy is protected by detecting sensitive objects and segmenting those from video.The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone.
 
 ![Privacy_Protected_Image](Practice.png)
-(Capture.png)
+![Privacy_Protected_Image2](Capture.PNG)
 
 The repository includes:
 * Source code of Mask R-CNN built on FPN and ResNet101.
