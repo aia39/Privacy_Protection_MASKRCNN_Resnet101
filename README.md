@@ -44,7 +44,7 @@ It includes code to run object detection and instance segmentation on arbitrary 
 
 * ([model.py](model.py), [utils.py](utils.py), [config.py](config.py),[coco.py](coco.py)): These files contain the main Mask RCNN implementation.(Must keep these in the directory of main code) 
 
-* [Privacy_Protected.ipynb](Privacy_Protected.ipynb) The main source code of our repository.It is the outcome of some modifications on Mask_RCNN.After instance segmentation we are able to detect sensitive objects in video and blur for privacy.Care should be taken so that as privacy is the main concern.You can observe the level of privacy protection whether it is noticable,distracting,disturbing or not.2 videos are provided to check its performance.We use this dataset as it was provided by IEEESPS for VIP Cup 2019.  
+* [Privacy_Protected.ipynb](Privacy_Protected.ipynb) The main source code of our repository.It is the outcome of some modifications on Mask_RCNN.After instance segmentation we are able to detect sensitive objects in video and blur for privacy.Care should be taken as privacy is the main concern.You can observe the level of privacy protection whether it is noticable,distracting,disturbing or not.2 videos are provided to check its performance.We use these video as dataset as it was provided by IEEESPS for VIP Cup 2019.  
 
 
 ## Requirements
