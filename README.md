@@ -32,7 +32,7 @@ The repository includes:
 * Windows: https://github.com/philferriere/cocoapi.
 You must have the Visual C++ 2015 build tools on your path (see the repo for additional details)
 
-You can follow [Mask_RCNN_Dependencies Installation](https://www.youtube.com/watch?v=2TikTv6PWDw&t=689s)to install every dependency required for this project. 
+You can follow [Mask_RCNN_Dependencies Installation](https://www.youtube.com/watch?v=2TikTv6PWDw&t=689s) to install every dependency required for this project. 
 
 
 
