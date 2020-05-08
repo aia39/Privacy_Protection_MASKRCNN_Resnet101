@@ -14,7 +14,6 @@ The repository includes:
 * Source code for Privacy protection in a video
 
 
-##VERY VERY IMPORTANT##
 ## Installation
 1. Clone this repository
 2. Install dependencies
