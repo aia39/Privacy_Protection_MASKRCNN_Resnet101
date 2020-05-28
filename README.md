@@ -4,7 +4,10 @@ This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on P
 Later better version was developed using different framework. [Link](https://github.com/aia39/Object-Based-Mask-Generation) of that repository.
 
 Some example of the work :
-![Privacy_Protected_Image2](example.jpg)
+![Privacy_Protected_Image2](content/example.jpg)
+
+The post processing part after instance segmentation can be described as :
+![Privacy_Protected_Imaage Generation explained](content/matrix_operation.jpg)
 
 The repository includes:
 * Source code of Mask R-CNN built on FPN and ResNet101.
