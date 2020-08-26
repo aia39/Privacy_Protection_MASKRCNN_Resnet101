@@ -12,8 +12,6 @@ The post processing part after instance segmentation can be described as :
 The repository includes:
 * Source code of Mask R-CNN built on FPN and ResNet101.
 * Jupyter notebooks to visualize the detection pipeline at every step
-* ParallelModel class for multi-GPU training
-* Evaluation on MS COCO metrics (AP)
 * Source code for Instance Segmentation in a Video
 * Source code for Privacy protection for single image
 * Source code for Privacy protection in a video
@@ -70,7 +68,7 @@ If you use Docker, the code has been verified to work on
 
 ## Acknowledgement 
 Tons of code was downloaded from theirs repo
-https://github.com/matterport/Mask_RCNN
-https://github.com/michaelnation26/sunglasses_of_invisibility.git
+* https://github.com/matterport/Mask_RCNN
+* https://github.com/michaelnation26/sunglasses_of_invisibility.git
 
     
