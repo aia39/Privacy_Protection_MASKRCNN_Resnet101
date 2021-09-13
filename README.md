@@ -1,4 +1,4 @@
-# Privacy_Protection based on Mask_RCNN
+# Privacy Protection based on Mask_RCNN
 
 This is an implementation of [Mask R-CNN](https://arxiv.org/abs/1703.06870) on Python 3, Keras, and TensorFlow.Privacy is protected by detecting sensitive objects and segmenting those from video.The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone as feature extractor.
 Later better version was developed using different framework. [Link](https://github.com/aia39/Object-Based-Mask-Generation) of that repository.
@@ -61,3 +61,14 @@ Tons of code was downloaded from theirs repo
 * https://github.com/michaelnation26/sunglasses_of_invisibility.git
 
     
+## Citation
+If you find our approach and code useful for your research (such as privacy aware action recognition and many more applications), please consider giving us citation  :
+
+```BibTeX
+@article{ghosh2020privacy,
+  title={Privacy-Aware Activity Classification from First Person Office Videos},
+  author={Ghosh, Partho and Istiak, Md and Rashid, Nayeeb and Akash, Ahsan Habib and Abrar, Ridwan and Dastider, Ankan Ghosh and Sushmit, Asif Shahriyar and Hasan, Taufiq and others},
+  journal={arXiv preprint arXiv:2006.06246},
+  year={2020}
+}
+```
